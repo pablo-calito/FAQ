@@ -1,0 +1,13 @@
+.accordion {
+    width: 800px;
+}
+
+#titulo{
+    margin: 40px;
+}
+
+.acordion-fondo img{
+ opacity: 0.5;
+ width: 60px;
+ height: 50px;
+}
